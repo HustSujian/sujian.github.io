@@ -11,8 +11,8 @@ locale                   : "CN"
 title                    : "Su Jian / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Su Jian"
-description              : &description "personal description"
-url                      : https://sujian.github.io/
+description              : &description "a doctoral student"
+url                      : https://hustsujian/sujian.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hustsujian/sujian.github.io/"
 
