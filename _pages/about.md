@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year doctoral student from HuaZhong University of Science and Technology (HUST).  My research interest includes control and planning of robot manipulator.
+I'm a first-year doctoral student at Huazhong University of Science and Technology (HUST) focusing on the control and planning of robot manipulators. My current work explores motion planning, robust control strategies, and closing the gap between theoretical methods and real-world deployment.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+Beyond research, I enjoy collaborating on robotics projects that combine perception, planning, and control. I'm always open to discussion about manipulation, dexterous grasping, and software tooling that improves robot reliability.
 
-[Email](jiansu@hust.edu.cn) / [Github](https://github.com/HustSujian) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/abiubiubiubiu?spm=1000.2115.3001.5343)
+You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-wn/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[Email](jiansu@hust.edu.cn) / [GitHub](https://github.com/HustSujian) / [WeChat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/abiubiubiubiu?spm=1000.2115.3001.5343)
